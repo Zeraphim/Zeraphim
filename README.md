@@ -65,16 +65,59 @@ vscode
 ps
 notion -->
 
-<img align="left" src="https://skillicons.dev/icons?i=py,pytorch,qt,postgres,postman,aws,git"alt="skills_1"/>
+[![My Skills1](https://skillicons.dev/icons?i=py,pytorch,qt,postgres,postman,aws,git)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=react,js,html,tailwind,css,npm,nodejs,mongodb,vercel,nginx,netlify=3)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,bash,discord,vscode,ps,notion)](https://skillicons.dev)
+
+<!-- <img align="left" src="https://skillicons.dev/icons?i=py,pytorch,qt,postgres,postman,aws,git"alt="skills_1"/>
 <img align="left" src="https://skillicons.dev/icons?i=react,js,html,tailwind,css,npm,nodejs,mongodb,vercel,nginx,netlify"alt="skills_2"/>
-<img align="left" src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,bash,discord,vscode,ps,notion"alt="skills_3"/>
+<img align="left" src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,bash,discord,vscode,ps,notion"alt="skills_3"/> -->
 
 </div>
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeraphim&show_icons=true&locale=en&layout=compact&theme=neon" alt="zeraphim" /></p>
+<!-- <div align="center">
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeraphim&show_icons=true&locale=en&layout=compact&theme=neon" alt="zeraphim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=neon" alt="zeraphim" /></p>
+<p align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=neon" alt="zeraphim" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=neon" alt="zeraphim" /></p>
+</div> -->
+
+<div align="center">
+<h3>GitHub Stats 📊:</h3>
+
+<table>
+<tr>
+<td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeraphim&show_icons=true&locale=en&layout=compact&theme=neon" alt="zeraphim" /></p></td>
+
+<td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=neon" alt="zeraphim" /></p></td>
+</tr>
+</table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=neon" alt="zeraphim" /></p>
+
+</div>
+
+<!-- <table align="center">
+<tr>
+<td colspan="2" align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zeraphim&show_icons=true&locale=en&layout=compact&theme=neon)
+
+</td>
+</tr>
+<tr>
+<td>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=neon)
+
+</td>
+<td>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=neon)
+
+</td>
+</tr>
+</table> -->
