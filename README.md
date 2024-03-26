@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Data Science, Machine Learning, React, Firebase**
+- 💬 Ask me about **Data Science, AI/ML, React**
 
 - 📫 How to reach me **jdmntec@gmail.com**
 
