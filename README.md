@@ -1,6 +1,6 @@
 [![MasterHead](./header2.png)]()
 
-<h1 align="center">Hi 👋, I'm Zeraphim</h1>
+<h1 align="center">Hi 👋, I'm JC Diamante</h1>
 <h3 align="center">A passionate data scientist and web developer from Philippines</h3>
 
 <img align="right" alt="coding" width="400" src="./coding.gif">
