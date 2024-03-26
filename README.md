@@ -1,7 +1,9 @@
 [![MasterHead](./header2.png)]()
 
-<h1 align="center">Hi 👋, I'm JC Diamante</h1>
-<h3 align="center">A passionate data scientist and web developer from Philippines</h3>
+<!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
+<h2 align="center">JC Diamante | Zeraphim</h1>
+<h3 align="center">A passionate data scientist and web developer from the Philippines 🇵🇭</h3>
+<p align="center">A highly motivated and technically skilled BS Computer Science graduate who has a passion for data science, machine learning, and web development </p>
 
 <img align="right" alt="coding" width="400" src="./coding.gif">
 
