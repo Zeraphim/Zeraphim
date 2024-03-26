@@ -88,15 +88,14 @@ notion -->
 <div align="center">
 <h3>GitHub Stats 📊:</h3>
 
-<table style="border: none;">
-<tr>
-<td style="border: none;"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeraphim&show_icons=true&locale=en&layout=compact&theme=neon" alt="zeraphim" /></p></td>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeraphim&show_icons=true&locale=en&layout=compact&theme=neon" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=neon" height="195"/> 
+</p>
 
-<td style="border: none;"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=neon" alt="zeraphim" /></p></td>
-</tr>
-</table>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=neon" alt="zeraphim" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=neon" width="800" />
+</p>
 
 </div>
 
