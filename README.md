@@ -100,9 +100,3 @@ notion -->
 
 </td>
 <td>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=neon)
-
-</td>
-</tr>
-</table> -->
