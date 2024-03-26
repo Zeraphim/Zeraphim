@@ -65,6 +65,8 @@ vscode
 ps
 notion -->
 
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,pytorch,qt,postgres,postman,aws,git,react,js,html,tailwind,css,npm,nodejs,mongodb,vercel,nginx,netlify,cpp,arduino,raspberrypi,bash,discord,vscode,ps,notion)](https://skillicons.dev) -->
+
 [![My Skills1](https://skillicons.dev/icons?i=py,pytorch,qt,postgres,postman,aws,git)](https://skillicons.dev)
 [![My Skills2](https://skillicons.dev/icons?i=react,js,html,tailwind,css,npm,nodejs,mongodb,vercel,nginx,netlify=3)](https://skillicons.dev)
 [![My Skills3](https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,bash,discord,vscode,ps,notion)](https://skillicons.dev)
