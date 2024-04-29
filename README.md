@@ -88,12 +88,12 @@ notion -->
 <h3>📊 GitHub Stats</h3>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeraphim&show_icons=true&locale=en&layout=compact&theme=neon" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=neon" height="195"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeraphim&show_icons=true&locale=en&layout=compact&theme=gotham" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=gotham" height="195"/> 
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=neon" width="800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=gotham" width="800" />
 </p>
 
 </div>
