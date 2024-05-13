@@ -1,4 +1,4 @@
-[![MasterHead](./header3.png)]()
+[![MasterHead](./header5.png)]()
 
 <!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
 <h2 align="center">JC Diamante | Zeraphim</h1>
@@ -65,7 +65,7 @@ ps
 notion -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,pytorch,qt,postgres,postman,aws,git,react,js,html,tailwind,css,npm,nodejs,mongodb,vercel,nginx,netlify,cpp,arduino,raspberrypi,bash,discord,vscode,ps,notion)](https://skillicons.dev) -->
-<!-- 
+<!--
 [![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,qt,postman,django,flask,aws,git)](https://skillicons.dev)
 [![My Skills2](https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
 [![My Skills3](https://skillicons.dev/icons?i=react,js,html,tailwind,css,npm,nodejs,vercel,nginx,netlify)](https://skillicons.dev)
