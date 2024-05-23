@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
 <h2 align="center">JC Diamante | Zeraphim</h1>
 <h3 align="center">A passionate data scientist and web developer from the Philippines 🇵🇭</h3>
-<p align="center">A highly motivated and technically skilled BS Computer Science graduate who has a passion for data science, machine learning, and web development </p>
+<p align="center">A Bachelor of Science in Computer Science graduate at Mapúa University and a Data Scientist Pathway graduate at DOST PCIEERD Project SPARTA. I am deeply passionate about continuous learning and personal growth. My academic and professional journey has been driven by unyielding curiosity and commitment to mastering new skills. Dedicated in making substantial contributions to the dynamic field of data science and software development.</p>
 
 <img align="right" alt="coding" width="400" src="./coding.gif">
 
