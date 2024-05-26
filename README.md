@@ -11,9 +11,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeraphim" alt="zeraphim" /></a> </p> -->
 
-- 🔭 I’m currently working on **My portfolio website**
+- 🔭 I’m currently working on **Data Science Projects/Research**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Data Science, AI/ML, React**
 
