@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
 <h2 align="center">JC Diamante | Zeraphim</h1>
-<h3 align="center">A passionate data scientist and web developer from the Philippines 🇵🇭</h3>
+<h3 align="center">A passionate data scientist and software engineer from the Philippines 🇵🇭</h3>
 <p align="center">I am deeply passionate about continuous learning and personal growth. My academic and professional journey has been driven by unyielding curiosity and commitment to mastering new skills. Dedicated in making substantial contributions to the dynamic field of data science and software development.</p>
 
 <img align="right" alt="coding" width="400" src="./coding.gif">
