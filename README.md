@@ -74,9 +74,9 @@ notion -->
 [![My Skills4](https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,bash,discord,vscode,ps,notion)](https://skillicons.dev)
 -->
 
-[![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,qt,postman,django,flask,aws,git,firebase,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,css,npm,nodejs,vercel,nginx,netlify,cpp,arduino,raspberrypi&perline=9)](https://skillicons.dev)
+[![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow,qt,r,postman,django,flask,aws,git,firebase,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,sass,css,npm,nodejs,nginx,express,vite,vercel,nginx,netlify,cpp,arduino,raspberrypi,vscode,sublime&perline=12)](https://skillicons.dev)
 <br>
-[![My Skills2](https://skillicons.dev/icons?i=bash,discord,vscode,ps,notion&perline=6)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,apple,bash,replit,discord,figma,ps,matlab,notion&perline=12)](https://skillicons.dev)
 
 <!-- <img align="left" src="https://skillicons.dev/icons?i=py,pytorch,qt,postgres,postman,aws,git"alt="skills_1"/>
 <img align="left" src="https://skillicons.dev/icons?i=react,js,html,tailwind,css,npm,nodejs,mongodb,vercel,nginx,netlify"alt="skills_2"/>
