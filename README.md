@@ -22,20 +22,13 @@
 - ⚡ Fun fact **I play kalimba**
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  
-<!-- LinkedIn -->
 <a href="https://linkedin.com/in/jcdiamante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcdiamante" height="30" width="40" /></a>
-
-<!-- Youtube -->
 <a href="https://www.youtube.com/channel/UCG1exqSNKgEniM-3XSLcS2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zeraphim4103" height="30" width="40" /></a>
-  
-<!-- Dev.to -->
 <a href="https://dev.to/@zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@zeraphim" height="30" width="40" /></a>
-
-<!-- Kaggle -->
 <a href="https://kaggle.com/zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeraphim" height="30" width="40" /></a>
-
 </p>
 
 <div align="center">
