@@ -73,7 +73,7 @@ notion -->
 [![My Skills4](https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,bash,discord,vscode,ps,notion)](https://skillicons.dev)
 -->
 
-[![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow,qt,r,postman,django,flask,aws,git,firebase,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,sass,css,npm,nodejs,nginx,express,vite,vercel,nginx,netlify,cpp,arduino,raspberrypi,vscode,sublime&perline=12)](https://skillicons.dev)
+[![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow,qt,r,postman,django,flask,aws,git,firebase,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,sass,css,npm,nodejs,spring,express,vite,vercel,nginx,netlify,cpp,arduino,raspberrypi,vscode,sublime&perline=12)](https://skillicons.dev)
 <br>
 [![My Skills2](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,apple,bash,replit,discord,figma,ps,matlab,notion&perline=12)](https://skillicons.dev)
 
