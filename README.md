@@ -53,6 +53,14 @@
     <a href="https://www.credly.com/badges/18ee08a5-758c-4cc5-8960-45ad1a3486db/public_url" target="_blank">
         <img src="images/saa.webp" height="120" alt="AWS Certified Solutions Architect Associate"/>
     </a>
+    <!-- AWS AI Practitioner -->
+    <a href="https://www.credly.com/badges/1ea46f2b-87f2-48fd-986f-4f27cb94b921/public_url" target="_blank">
+        <img src="images/aiprac.webp" height="120" alt="AWS Certified AI Practitioner"/>
+    </a>
+    <!-- AWS AI Practitioner Early Adopter -->
+    <a href="https://www.credly.com/badges/f7ed4608-eeeb-4a9d-835c-ed25089db801/public_url" target="_blank">
+        <img src="images/aiprac-early-adopter.webp" height="120" alt="AWS AI Practitioner Early Adopter"/>
+    </a>
     <!-- AWS CloudPrac -->
     <a href="https://www.credly.com/badges/e7181a34-70c1-4d52-937b-a4c34285247b/public_url" target="_blank">
         <img src="images/cloudprac.webp" height="120" alt="AWS Certified Cloud Practitioner"/>
