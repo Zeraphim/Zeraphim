@@ -69,7 +69,10 @@
     <a href="https://www.credly.com/badges/c7fde662-c2fe-49f2-8eb0-032cab0297bc/public_url" target="_blank">
       <img src="images/foundations.webp" height="120" alt="GitHub Foundations Certification"/>
     </a>
-
+    <!-- NASA TOPS Open Science 101 -->
+    <a href="https://www.credly.com/badges/94e7bd4d-4522-42af-82fe-76065b7e6090/public_url" target="_blank">
+      <img src="images/nasa_open_science.webp" height="120" alt="GitHub Foundations Certification"/>
+    </a>
   </div>
 
 </div>
