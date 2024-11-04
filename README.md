@@ -46,7 +46,7 @@
 
   <hr>
 
-  <h3>⭐️ Certifications ⭐️</h3>
+  <h3>⭐️ Certifications / Badges ⭐️</h3>
 
   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center">
     <!-- AWS SAA -->
