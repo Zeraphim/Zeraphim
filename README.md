@@ -87,9 +87,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zeraphim&show_icons=true&locale=en&theme=gotham" height="195"/> 
 </p>
 
+<!--
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&&theme=gotham" width="800" />
 </p>
+-->
 
 </div>
 
