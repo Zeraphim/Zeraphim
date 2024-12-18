@@ -49,6 +49,18 @@
   <h3>⭐️ Certifications / Badges ⭐️</h3>
 
   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center">
+    <!-- AWS MLA -->
+    <a href="https://www.credly.com/badges/3d19a07a-a46c-43e3-8539-8bb20791bf6d/public_url" target="_blank">
+        <img src="images/mla.webp" height="120" alt="AWS Certified Machine Learning Engineer Associate"/>
+    </a>
+    <!-- AWS MLA Early Adopter -->
+    <a href="https://www.credly.com/badges/74d889fc-e4f7-477b-95f8-636044937ab7/public_url" target="_blank">
+        <img src="images/mla-early-adopter.webp" height="120" alt="AWS Certified Machine Learning Engineer Associate Early Adopter"/>
+    </a>
+    <!-- AWS DVA -->
+    <a href="https://www.credly.com/badges/2b5607ea-7062-40cc-8bc6-79ee245602a2/public_url" target="_blank">
+        <img src="images/dva.webp" height="120" alt="AWS Certified Developer Associate"/>
+    </a>
     <!-- AWS SAA -->
     <a href="https://www.credly.com/badges/18ee08a5-758c-4cc5-8960-45ad1a3486db/public_url" target="_blank">
         <img src="images/saa.webp" height="120" alt="AWS Certified Solutions Architect Associate"/>
