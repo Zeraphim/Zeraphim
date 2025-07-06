@@ -44,37 +44,39 @@
 </div>
 
 <div align="center">
-<hr>
-<h3 align="center">⭐️ Certifications / Badges ⭐️</h3>
-<p align="center">
-<a href="https://www.credly.com/badges/3d19a07a-a46c-43e3-8539-8bb20791bf6d/public_url" target="_blank">
-<img src="images/mla.webp" style="height: 90px;" alt="AWS Certified Machine Learning Engineer Associate"/>
-</a>
-<a href="https://www.credly.com/badges/74d889fc-e4f7-477b-95f8-636044937ab7/public_url" target="_blank">
-<img src="images/mla-early-adopter.webp" style="height: 90px;" alt="AWS Certified Machine Learning Engineer Associate Early Adopter"/>
-</a>
-<a href="https://www.credly.com/badges/2b5607ea-7062-40cc-8bc6-79ee245602a2/public_url" target="_blank">
-<img src="images/dva.webp" style="height: 90px;" alt="AWS Certified Developer Associate"/>
-</a>
-<a href="https://www.credly.com/badges/18ee08a5-758c-4cc5-8960-45ad1a3486db/public_url" target="_blank">
-<img src="images/saa.webp" style="height: 90px;" alt="AWS Certified Solutions Architect Associate"/>
-</a>
-<a href="https://www.credly.com/badges/1ea46f2b-87f2-48fd-986f-4f27cb94b921/public_url" target="_blank">
-<img src="images/aiprac.webp" style="height: 90px;" alt="AWS Certified AI Practitioner"/>
-</a>
-<a href="https://www.credly.com/badges/f7ed4608-eeeb-4a9d-835c-ed25089db801/public_url" target="_blank">
-<img src="images/aiprac-early-adopter.webp" style="height: 90px;" alt="AWS AI Practitioner Early Adopter"/>
-</a>
-<a href="https://www.credly.com/badges/e7181a34-70c1-4d52-937b-a4c34285247b/public_url" target="_blank">
-<img src="images/cloudprac.webp" style="height: 90px;" alt="AWS Certified Cloud Practitioner"/>
-</a>
-<a href="https://www.credly.com/badges/c7fde662-c2fe-49f2-8eb0-032cab0297bc/public_url" target="_blank">
-<img src="images/foundations.webp" style="height: 90px;" alt="GitHub Foundations Certification"/>
-</a>
-<a href="https://www.credly.com/badges/94e7bd4d-4522-42af-82fe-76065b7e6090/public_url" target="_blank">
-<img src="images/nasa_open_science.webp" style="height: 90px;" alt="NASA TOPS Open Science 101"/>
-</a>
-</p>
+  <hr>
+
+  <h3 align="center">⭐️ Certifications / Badges ⭐️</h3>
+
+  <p align="center">
+    <a href="https://www.credly.com/badges/3d19a07a-a46c-43e3-8539-8bb20791bf6d/public_url" target="_blank">
+      <img src="images/mla.webp" style="height: 90px;" alt="AWS Certified Machine Learning Engineer Associate"/>
+    </a>
+    <a href="https://www.credly.com/badges/74d889fc-e4f7-477b-95f8-636044937ab7/public_url" target="_blank">
+      <img src="images/mla-early-adopter.webp" style="height: 90px;" alt="AWS Certified Machine Learning Engineer Associate Early Adopter"/>
+    </a>
+    <a href="https://www.credly.com/badges/2b5607ea-7062-40cc-8bc6-79ee245602a2/public_url" target="_blank">
+      <img src="images/dva.webp" style="height: 90px;" alt="AWS Certified Developer Associate"/>
+    </a>
+    <a href="https://www.credly.com/badges/18ee08a5-758c-4cc5-8960-45ad1a3486db/public_url" target="_blank">
+      <img src="images/saa.webp" style="height: 90px;" alt="AWS Certified Solutions Architect Associate"/>
+    </a>
+    <a href="https://www.credly.com/badges/1ea46f2b-87f2-48fd-986f-4f27cb94b921/public_url" target="_blank">
+      <img src="images/aiprac.webp" style="height: 90px;" alt="AWS Certified AI Practitioner"/>
+    </a>
+    <a href="https://www.credly.com/badges/f7ed4608-eeeb-4a9d-835c-ed25089db801/public_url" target="_blank">
+      <img src="images/aiprac-early-adopter.webp" style="height: 90px;" alt="AWS AI Practitioner Early Adopter"/>
+    </a>
+    <a href="https://www.credly.com/badges/e7181a34-70c1-4d52-937b-a4c34285247b/public_url" target="_blank">
+      <img src="images/cloudprac.webp" style="height: 90px;" alt="AWS Certified Cloud Practitioner"/>
+    </a>
+    <a href="https://www.credly.com/badges/c7fde662-c2fe-49f2-8eb0-032cab0297bc/public_url" target="_blank">
+      <img src="images/foundations.webp" style="height: 90px;" alt="GitHub Foundations Certification"/>
+    </a>
+    <a href="https://www.credly.com/badges/94e7bd4d-4522-42af-82fe-76065b7e6090/public_url" target="_blank">
+      <img src="images/nasa_open_science.webp" style="height: 90px;" alt="NASA TOPS Open Science 101"/>
+    </a>
+  </p>
 </div>
 
 <hr>
