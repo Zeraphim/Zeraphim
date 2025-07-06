@@ -1,5 +1,5 @@
-[![MasterHead](./header5.png)]()
-<!-- [![MasterHead](./header.gif)]() -->
+<!-- [![MasterHead](./header5.png)]() -->
+[![MasterHead](./header.gif)]()
 
 <!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
 <h2 align="center">JC Diamante | Zeraphim</h1>
