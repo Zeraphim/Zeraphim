@@ -46,46 +46,37 @@
 
   <hr>
 
-  <h3>⭐️ Certifications / Badges ⭐️</h3>
+  <h3 align="center">⭐️ Certifications / Badges ⭐️</h3>
 
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center">
-    <!-- AWS MLA -->
+  <p align="center">
     <a href="https://www.credly.com/badges/3d19a07a-a46c-43e3-8539-8bb20791bf6d/public_url" target="_blank">
-        <img src="images/mla.webp" height="120" alt="AWS Certified Machine Learning Engineer Associate"/>
+      <img src="images/mla.webp" height="90" alt="AWS Certified Machine Learning Engineer Associate"/>
     </a>
-    <!-- AWS MLA Early Adopter -->
     <a href="https://www.credly.com/badges/74d889fc-e4f7-477b-95f8-636044937ab7/public_url" target="_blank">
-        <img src="images/mla-early-adopter.webp" height="120" alt="AWS Certified Machine Learning Engineer Associate Early Adopter"/>
+      <img src="images/mla-early-adopter.webp" height="90" alt="AWS Certified Machine Learning Engineer Associate Early Adopter"/>
     </a>
-    <!-- AWS DVA -->
     <a href="https://www.credly.com/badges/2b5607ea-7062-40cc-8bc6-79ee245602a2/public_url" target="_blank">
-        <img src="images/dva.webp" height="120" alt="AWS Certified Developer Associate"/>
+      <img src="images/dva.webp" height="90" alt="AWS Certified Developer Associate"/>
     </a>
-    <!-- AWS SAA -->
     <a href="https://www.credly.com/badges/18ee08a5-758c-4cc5-8960-45ad1a3486db/public_url" target="_blank">
-        <img src="images/saa.webp" height="120" alt="AWS Certified Solutions Architect Associate"/>
+      <img src="images/saa.webp" height="90" alt="AWS Certified Solutions Architect Associate"/>
     </a>
-    <!-- AWS AI Practitioner -->
     <a href="https://www.credly.com/badges/1ea46f2b-87f2-48fd-986f-4f27cb94b921/public_url" target="_blank">
-        <img src="images/aiprac.webp" height="120" alt="AWS Certified AI Practitioner"/>
+      <img src="images/aiprac.webp" height="90" alt="AWS Certified AI Practitioner"/>
     </a>
-    <!-- AWS AI Practitioner Early Adopter -->
     <a href="https://www.credly.com/badges/f7ed4608-eeeb-4a9d-835c-ed25089db801/public_url" target="_blank">
-        <img src="images/aiprac-early-adopter.webp" height="120" alt="AWS AI Practitioner Early Adopter"/>
+      <img src="images/aiprac-early-adopter.webp" height="90" alt="AWS AI Practitioner Early Adopter"/>
     </a>
-    <!-- AWS CloudPrac -->
     <a href="https://www.credly.com/badges/e7181a34-70c1-4d52-937b-a4c34285247b/public_url" target="_blank">
-        <img src="images/cloudprac.webp" height="120" alt="AWS Certified Cloud Practitioner"/>
+      <img src="images/cloudprac.webp" height="90" alt="AWS Certified Cloud Practitioner"/>
     </a>
-    <!-- GitHub Foundations -->
     <a href="https://www.credly.com/badges/c7fde662-c2fe-49f2-8eb0-032cab0297bc/public_url" target="_blank">
-      <img src="images/foundations.webp" height="120" alt="GitHub Foundations Certification"/>
+      <img src="images/foundations.webp" height="90" alt="GitHub Foundations Certification"/>
     </a>
-    <!-- NASA TOPS Open Science 101 -->
     <a href="https://www.credly.com/badges/94e7bd4d-4522-42af-82fe-76065b7e6090/public_url" target="_blank">
-      <img src="images/nasa_open_science.webp" height="120" alt="GitHub Foundations Certification"/>
+      <img src="images/nasa_open_science.webp" height="90" alt="NASA TOPS Open Science 101"/>
     </a>
-  </div>
+  </p>
 
 </div>
 
