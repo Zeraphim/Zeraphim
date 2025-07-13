@@ -84,11 +84,31 @@
 <div align="center">
 <h3>📊 GitHub Stats 📊</h3>
 
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
+<!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
 <img width="480" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&theme=gotham&hide_border=false" />
-<img width="500" height="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
+<img width="500" height="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" /> -->
 
+<div style="display: flex; flex-direction: row; gap: 5px; padding: 20px; justify-content: center; align-items: center">
+  <!-- Left column with two stacked divs -->
+  <div style="display: flex; flex-direction: column; gap: 10px; flex: 1;">
+    <!-- <div style="background-color: #264653; padding: 1px; border: 2px solid #2a9d8f; border-radius: 10px; height: 190px; display: flex; justify-content: flex-end; align-items: center"> -->
+    <div style="padding: 1px; height: 190px; display: flex; justify-content: flex-end; align-items: center">
+      <img width="450" height="240" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
+    </div>
+    <!-- <div style="background-color: #2a9d8f; padding: 1px; border: 2px solid #264653; border-radius: 10px; height: 190px; display: flex; justify-content: flex-end; align-items: center"> -->
+    <div style="padding: 1px; height: 190px; display: flex; justify-content: flex-end; align-items: center">
+      <img width="480" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&theme=gotham&hide_border=false" />
+    </div>
+  </div>
+  
+  <!-- Right column -->
+  <!-- <div style="background-color: #e76f51; padding: 1px; border: 2px solid #0a0908ff; border-radius: 10px; flex: 1; height: 395px; justify-content:center; align-items: center"> -->
+  <div style="padding: 1px; border: 2px solid flex: 1; height: 395px; justify-content:center; align-items: center">
+    <img width="500" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
+  </div>
 </div>
+</div>
+
 
 </td>
 <td>
