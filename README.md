@@ -84,9 +84,9 @@
 <div align="center">
 <h3>📊 GitHub Stats 📊</h3>
 
-<img width="300" height="120" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
-<img width="300" height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&theme=gotham&hide_border=false" />
-<img width="500" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
+<img width="480" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&theme=gotham&hide_border=false" />
+<img width="500" height="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
 
 </div>
 
