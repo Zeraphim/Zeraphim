@@ -37,10 +37,7 @@
 
   <h3>🛠️ Tech Stack 🛠️</h3>
 
-[![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow,qt,r,postman,django,flask,aws,git,firebase,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,sass,css,npm,nodejs,spring,express,vite,vercel,nginx,netlify,cpp,arduino,raspberrypi,vscode,sublime&perline=12)](https://skillicons.dev)
-<br>
-[![My Skills2](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,apple,bash,replit,discord,figma,ps,matlab,notion&perline=12)](https://skillicons.dev)
-
+[![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow,latex,r,postman,django,flask,fastapi,aws,azure,gcp,firebase,git,docker,kubernetes,kafka,redis,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,sass,css,npm,nodejs,java,maven,spring,gradle,grafana,express,vite,vercel,nginx,cpp,arduino,raspberrypi,bash,vim,neovim,vscode,linux,windows,apple,github,gitlab,replit,discord,figma,ps,matlab,obsidian,notion&perline=12)](https://skillicons.dev)
 </div>
 
 <div align="center">
