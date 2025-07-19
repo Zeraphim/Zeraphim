@@ -67,11 +67,14 @@
     <a href="https://www.credly.com/badges/e7181a34-70c1-4d52-937b-a4c34285247b/public_url" target="_blank">
       <img src="images/cloudprac.webp" style="height: 90px;" alt="AWS Certified Cloud Practitioner"/>
     </a>
+    <a href="https://learn.microsoft.com/en-us/users/JCDiamante-2285/credentials/8FBB49C024743B6?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+      <img src="images/ms_developer_associate.webp" style="height: 90px;" alt="Microsoft Certified: Developer Associate"/>
+    </a>
     <a href="https://www.credly.com/badges/c7fde662-c2fe-49f2-8eb0-032cab0297bc/public_url" target="_blank">
       <img src="images/foundations.webp" style="height: 90px;" alt="GitHub Foundations Certification"/>
     </a>
     <a href="https://www.credly.com/badges/94e7bd4d-4522-42af-82fe-76065b7e6090/public_url" target="_blank">
-      <img src="images/nasa_open_science.webp" style="height: 90px;" alt="NASA TOPS Open Science 101"/>
+      <img src="images/open_science.webp" style="height: 90px;" alt="NASA TOPS Open Science"/>
     </a>
   </p>
 </div>
