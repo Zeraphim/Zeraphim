@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects/Research**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently taking **Masters in AI** at UT Austin 🤘🏼
 
 - 💬 Ask me about **Data Science, AI/ML, React**
 
