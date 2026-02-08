@@ -33,9 +33,9 @@
 <a href="https://kaggle.com/zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeraphim" height="30" width="40" /></a>
 </p>
 
-## GitHub Activity
+<!-- ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/zeraphim)
+![GitHub Contribution Graph](https://ghchart.rshah.org/zeraphim) -->
 
 
 <!-- <div align="center">
