@@ -31,14 +31,14 @@
 <a href="https://kaggle.com/zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeraphim" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 
   <hr>
 
   <h3>🛠️ Tech Stack 🛠️</h3>
 
 [![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow,latex,r,postman,django,flask,fastapi,aws,azure,gcp,firebase,git,docker,kubernetes,kafka,redis,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,sass,css,npm,nodejs,java,maven,spring,gradle,grafana,express,vite,vercel,nginx,cpp,arduino,raspberrypi,bash,vim,neovim,vscode,linux,windows,apple,github,gitlab,replit,discord,figma,ps,matlab,obsidian,notion&perline=12)](https://skillicons.dev)
-</div>
+</div> -->
 
 <!-- <div align="center">
   <hr>
