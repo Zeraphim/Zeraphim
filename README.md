@@ -3,8 +3,8 @@
 
 <!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
 <h2 align="center">JC Diamante | Zeraphim</h1>
-<h3 align="center">Data Scientist and Software Engineer</h3>
-<p align="center">I am deeply passionate about continuous learning and personal growth. My academic and professional journey has been driven by unyielding curiosity and commitment to mastering new skills. Dedicated in making substantial contributions to the dynamic field of data science and software development.</p>
+<h3 align="center">Full Stack Software Engineer</h3>
+<p align="center">I'm JC, a Software Engineer at GCash where I build backend microservices serving 94 million users. I'm also a Research Scientist working on forest fire detection using AI, and I'm pursuing my Master's in AI at UT Austin. I've published in IEEE and ACM, won multiple hackathons including NASA Space Apps, and I'm 5x AWS certified. Whether it's a production-ready backend or a machine learning model, I build things that work.</p>
 
 <img align="right" alt="coding" width="300" src="./coding.gif">
 
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently taking **Masters in AI** at UT Austin 🤘🏼
 
-- 💬 Ask me about **Data Science, AI/ML, React**
+- 💬 Ask me about **Data Science, AI/ML, React, NextJS**
 
 - 📫 How to reach me **jdmntec@gmail.com**
 
@@ -79,14 +79,14 @@
   </p>
 </div>
 
-<hr>
+<!-- <hr> -->
 
-<div align="center">
-<h3>📊 GitHub Stats 📊</h3>
+<!-- <div align="center"> -->
+<!-- <h3>📊 GitHub Stats 📊</h3> -->
 
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
-<img width="480" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&theme=gotham&hide_border=false" />
-<img width="500" height="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
+<!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" /> -->
+<!-- <img width="480" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&theme=gotham&hide_border=false" /> -->
+<!-- <img width="500" height="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" /> -->
 
 <!-- <div style="display: flex; flex-direction: row; gap: 5px; padding: 20px; justify-content: center; align-items: center">
   <div style="display: flex; flex-direction: column; gap: 10px; flex: 1;">
@@ -102,7 +102,7 @@
     <img width="500" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
   </div>
 </div> -->
-</div>
+<!-- </div> -->
 
 
 </td>
