@@ -6,6 +6,8 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 <p align="center">I'm JC, a Software Engineer at GCash where I build backend microservices serving 94 million users. I'm also a Research Scientist working on forest fire detection using AI, and I'm pursuing my Master's in AI at UT Austin. I've published in IEEE and ACM, won multiple hackathons including NASA Space Apps, and I'm 5x AWS certified. Whether it's a production-ready backend or a machine learning model, I build things that work.</p>
 
+[![My Skills1](https://skillicons.dev/icons?i=py,typescript,java,spring,kubernetes,aws,azure,gcp,git,bash,neovim,c&perline=12)](https://skillicons.dev)
+
 <img align="right" alt="coding" width="300" src="./coding.gif">
 
 <p align="left" padding="30"> <img src="https://komarev.com/ghpvc/?username=zeraphim&label=Profile%20views&color=0e75b6&style=flat" alt="zeraphim" /> </p>
@@ -30,6 +32,11 @@
 <a href="https://dev.to/@zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@zeraphim" height="30" width="40" /></a>
 <a href="https://kaggle.com/zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeraphim" height="30" width="40" /></a>
 </p>
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/zeraphim)
+
 
 <!-- <div align="center">
 
