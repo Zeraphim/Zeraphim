@@ -33,6 +33,23 @@
 <a href="https://kaggle.com/zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeraphim" height="30" width="40" /></a>
 </p>
 
+## Publications
+
+I am actively involved in machine learning research and have contributed to various studies and publications. You can find a comprehensive list of my works on my ORCID profile: [https://orcid.org/0009-0002-6594-956X](https://orcid.org/0009-0002-6594-956X)
+
+
+<!-- <h2>Projects</h2>
+
+<p>Will be posting updates soon !! ✨</p>
+
+<h2>Open Source Contributions</h2>
+
+<p>Will be posting updates soon !! ✨</p>
+
+<h2>Blog</h2>
+
+<p>Will be posting updates soon !! ✨</p> -->
+
 <!-- ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/zeraphim) -->
