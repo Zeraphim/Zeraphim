@@ -40,7 +40,7 @@
 [![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow,latex,r,postman,django,flask,fastapi,aws,azure,gcp,firebase,git,docker,kubernetes,kafka,redis,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,sass,css,npm,nodejs,java,maven,spring,gradle,grafana,express,vite,vercel,nginx,cpp,arduino,raspberrypi,bash,vim,neovim,vscode,linux,windows,apple,github,gitlab,replit,discord,figma,ps,matlab,obsidian,notion&perline=12)](https://skillicons.dev)
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <hr>
 
   <h3 align="center">⭐️ Certifications / Badges ⭐️</h3>
@@ -77,7 +77,7 @@
       <img src="images/open_science.webp" style="height: 90px;" alt="NASA TOPS Open Science"/>
     </a>
   </p>
-</div>
+</div> -->
 
 <!-- <hr> -->
 
