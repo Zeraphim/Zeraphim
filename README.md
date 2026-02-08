@@ -3,10 +3,16 @@
 
 <!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
 <h2 align="center">JC Diamante | Zeraphim</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
-<p align="center">I'm JC, a Software Engineer at GCash where I build backend microservices serving 94 million users. I'm also a Research Scientist working on forest fire detection using AI, and I'm pursuing my Master's in AI at UT Austin. I've published in IEEE and ACM, won multiple hackathons including NASA Space Apps, and I'm 5x AWS certified. Whether it's a production-ready backend or a machine learning model, I build things that work.</p>
+<!-- <h3 align="center">Full Stack Software Engineer</h3> -->
+<p align="center">Hi I’m JC 👋🏼, an enthusiastic builder who loves ML, cloud architecture, all things dev, and participating in hackathons. Currently working in FinTech as a Lead Software Engineer at <a href="https://gcash.com/" target="_blank">GCash</a> where I build backend microservices serving 94 million users. I'm also a Research Scientist working on forest fire detection using AI at <a href="https://www.mapua.edu.ph/" target="_blank">Mapua University</a>, currently pursuing my Master's in AI at <a href="https://www.utexas.edu/" target="_blank">UT Austin</a>. I've published studies in IEEE and ACM, Loves participating in Hackathons, and I always try to automate stuff that I'm lazy of doing manually. 🤖</p>
 
-[![My Skills1](https://skillicons.dev/icons?i=py,typescript,java,spring,kubernetes,aws,azure,gcp,git,bash,neovim,c&perline=12)](https://skillicons.dev)
+<div align="center">
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,typescript,java,spring,kubernetes,aws,azure,gcp,git,bash,neovim,c&perline=12" alt="My Skills">
+    </a>
+  </p>
+</div>
 
 <img align="right" alt="coding" width="300" src="./coding.gif">
 
@@ -35,7 +41,7 @@
 
 ## Publications
 
-I am actively involved in machine learning research and have contributed to various studies and publications. You can find a comprehensive list of my works on my ORCID profile: [https://orcid.org/0009-0002-6594-956X](https://orcid.org/0009-0002-6594-956X)
+I am actively involved in machine learning research and have contributed to various studies and publications. You can find a comprehensive list of my works on my <a href="https://orcid.org/0009-0002-6594-956X" target="_blank">ORCID profile</a>.
 
 
 <!-- <h2>Projects</h2>
