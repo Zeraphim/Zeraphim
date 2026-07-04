@@ -1,5 +1,5 @@
 <!-- [![MasterHead](./images/banner-v2.webp)]() -->
-[![MasterHead](./images/banner-v2.webp)]()
+[![MasterHead](./images/banner-v3.webp)]()
 
 <!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
 <h2 align="center">JC Diamante | Zeraphim</h1>
