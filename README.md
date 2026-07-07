@@ -87,10 +87,16 @@ I work on applied computer vision and ML. Full list on my **[ORCID profile](http
 ## ✍️ I also write & share
 
 <p>
-  <a href="https://dev.to/zeraphim"><img src="https://img.shields.io/badge/dev.to-Articles-0D9488?style=flat-square&logo=dev.to&logoColor=white"/></a>
+  <a href="https://www.jcdiamante.com/blog"><img src="https://img.shields.io/badge/Blog-jcdiamante.com-0D9488?style=flat-square&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCG1exqSNKgEniM-3XSLcS2w"><img src="https://img.shields.io/badge/YouTube-Talks-0F766E?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href="https://kaggle.com/zeraphim"><img src="https://img.shields.io/badge/Kaggle-Notebooks-134E4A?style=flat-square&logo=kaggle&logoColor=white"/></a>
 </p>
+
+**Featured writings**
+
+- **[Can't Use Cloud AI on Patient Data? — ICU Mortality Predictor with Local LLMs](https://www.jcdiamante.com/blog/cant-use-cloud-ai-patient-data-local-llms-icu-mortality)** — Running Gemma 4 & Qwen3 Coder on-device with MIMIC-III clinical data for my UT Austin AI in Healthcare course. `Local AI · Healthcare AI · Machine Learning`
+- **[Running Local LLMs With LM Studio](https://www.jcdiamante.com/blog/running-local-llms-lm-studio-small-models)** — Testing small models for real tasks (Filipino privacy-law assistant) and learning what local AI can actually deliver today. `Local AI · Machine Learning`
+- **[I Bought a Raspberry Pi Because AWS Humbled Me](https://www.jcdiamante.com/blog/i-bought-a-raspberry-pi)** — After one too many idle EC2 bills, I bought a Pi and let it do the quiet work on my desk. `Cloud & Infra · Hardware`
 
 ## 📈 GitHub stats
 
