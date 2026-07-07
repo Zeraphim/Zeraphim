@@ -98,12 +98,12 @@ I work on applied computer vision and ML. Full list on my **[ORCID profile](http
 - **[Running Local LLMs With LM Studio](https://www.jcdiamante.com/blog/running-local-llms-lm-studio-small-models)** — Testing small models for real tasks (Filipino privacy-law assistant) and learning what local AI can actually deliver today. `Local AI · Machine Learning`
 - **[I Bought a Raspberry Pi Because AWS Humbled Me](https://www.jcdiamante.com/blog/i-bought-a-raspberry-pi)** — After one too many idle EC2 bills, I bought a Pi and let it do the quiet work on my desk. `Cloud & Infra · Hardware`
 
-## 📈 GitHub stats
+<!--## 📈 GitHub stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zeraphim&show_icons=true&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=475569&bg_color=ffffff" alt="stats"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeraphim&layout=compact&hide_border=true&title_color=0D9488&text_color=475569&bg_color=ffffff" alt="top langs"/>
-</p>
+</p>-->
 
 ---
 
