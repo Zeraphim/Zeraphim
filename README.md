@@ -1,139 +1,107 @@
-<!-- [![MasterHead](./images/banner-v2.webp)]() -->
-[![MasterHead](./images/banner-v3.webp)]()
+<a href="https://jcdiamante.com">
+  <img src="./images/banner-v3.webp" alt="JC Diamante — Build. Research. Teach." width="100%" />
+</a>
 
-<!-- <h1 align="center">Hi 👋, I'm JC Diamante</h1> -->
-<h2 align="center">JC Diamante | Zeraphim</h1>
-<!-- <h3 align="center">Full Stack Software Engineer</h3> -->
-<p align="center">Hi I’m JC 👋🏼, an enthusiastic builder who loves ML, cloud architecture, all things dev, and participating in hackathons. Currently working in FinTech as a Lead Software Engineer at <a href="https://gcash.com/" target="_blank">GCash</a> where I build backend microservices serving 94 million users. I'm also a Research Scientist working on forest fire detection using AI at <a href="https://www.mapua.edu.ph/" target="_blank">Mapua University</a>, currently pursuing my Master's in AI at <a href="https://www.utexas.edu/" target="_blank">UT Austin</a>. I've published studies in IEEE and ACM, Loves participating in Hackathons, and I always try to automate stuff that I'm lazy of doing manually. 🤖</p>
+<h1 align="center">Hi, I'm JC 👋🏼 &nbsp;<span>◆</span></h1>
 
-<div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,typescript,java,spring,kubernetes,aws,azure,gcp,git,bash,neovim,c&perline=12" alt="My Skills">
-    </a>
-  </p>
-</div>
-
-<img align="right" alt="coding" width="300" src="./coding.gif">
-
-<p align="left" padding="30"> <img src="https://komarev.com/ghpvc/?username=zeraphim&label=Profile%20views&color=0e75b6&style=flat" alt="zeraphim" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeraphim" alt="zeraphim" /></a> </p> -->
-
-- 🔭 I’m currently working on **Data Science Projects/Research**
-
-- 🌱 I’m currently taking **Masters in AI** at UT Austin 🤘🏼
-
-- 💬 Ask me about **Data Science, AI/ML, React, NextJS**
-
-- 📫 How to reach me **jdmntec@gmail.com**
-
-- ⚡ Fun fact **I play kalimba**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/jcdiamante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcdiamante" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCG1exqSNKgEniM-3XSLcS2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zeraphim4103" height="30" width="40" /></a>
-<a href="https://dev.to/@zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@zeraphim" height="30" width="40" /></a>
-<a href="https://kaggle.com/zeraphim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeraphim" height="30" width="40" /></a>
+<p align="center">
+  <b>I build software, research AI, and teach both.</b><br/>
+  Lead Software Engineer <a href="https://gcash.com/">@GCash</a> (backend for 94M+ users) ·
+  AI Research Scientist <a href="https://www.mapua.edu.ph/">@Mapúa</a> ·
+  MS in AI <a href="https://www.utexas.edu/">@UT&nbsp;Austin</a>
 </p>
 
-## Publications
+<p align="center">
+  <a href="https://jcdiamante.com"><img src="https://img.shields.io/badge/Portfolio-jcdiamante.com-0D9488?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/jcdiamante"><img src="https://img.shields.io/badge/LinkedIn-jcdiamante-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0002-6594-956X"><img src="https://img.shields.io/badge/ORCID-Publications-134E4A?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://x.com/ThatZeraphim"><img src="https://img.shields.io/badge/X-@ThatZeraphim-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-I am actively involved in machine learning research and have contributed to various studies and publications. You can find a comprehensive list of my works on my <a href="https://orcid.org/0009-0002-6594-956X" target="_blank">ORCID profile</a>.
+---
 
+I'm a builder who never really picked one lane — and stopped apologizing for it. Days I'm shipping backend microservices that keep money moving for **94M+ users** at GCash. Other days I'm training vision models to spot wildfires from the air, or in class for my **Master's in AI at UT Austin**. And I genuinely love teaching the stuff once it clicks. Big fan of hackathons, automating anything I'm too lazy to do twice, and the occasional kalimba break. 🎶
 
-<!-- <h2>Projects</h2>
+My whole thing is **passion & excellence** — whether it's a production system or a research paper, I want it to actually *work*.
 
-<p>Will be posting updates soon !! ✨</p>
+## 🧭 What I do
 
-<h2>Open Source Contributions</h2>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<p>Will be posting updates soon !! ✨</p>
-
-<h2>Blog</h2>
-
-<p>Will be posting updates soon !! ✨</p> -->
-
-<!-- ## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/zeraphim) -->
-
-
-<!-- <div align="center">
-
-  <hr>
-
-  <h3>🛠️ Tech Stack 🛠️</h3>
-
-[![My Skills1](https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow,latex,r,postman,django,flask,fastapi,aws,azure,gcp,firebase,git,docker,kubernetes,kafka,redis,postgres,mysql,mongodb,sqlite,react,js,html,tailwind,sass,css,npm,nodejs,java,maven,spring,gradle,grafana,express,vite,vercel,nginx,cpp,arduino,raspberrypi,bash,vim,neovim,vscode,linux,windows,apple,github,gitlab,replit,discord,figma,ps,matlab,obsidian,notion&perline=12)](https://skillicons.dev)
-</div> -->
-
-<!-- <div align="center">
-  <hr>
-
-  <h3 align="center">⭐️ Certifications / Badges ⭐️</h3>
-
-  <p align="center">
-    <a href="https://www.credly.com/badges/3d19a07a-a46c-43e3-8539-8bb20791bf6d/public_url" target="_blank">
-      <img src="images/mla.webp" style="height: 90px;" alt="AWS Certified Machine Learning Engineer Associate"/>
-    </a>
-    <a href="https://www.credly.com/badges/74d889fc-e4f7-477b-95f8-636044937ab7/public_url" target="_blank">
-      <img src="images/mla-early-adopter.webp" style="height: 90px;" alt="AWS Certified Machine Learning Engineer Associate Early Adopter"/>
-    </a>
-    <a href="https://www.credly.com/badges/2b5607ea-7062-40cc-8bc6-79ee245602a2/public_url" target="_blank">
-      <img src="images/dva.webp" style="height: 90px;" alt="AWS Certified Developer Associate"/>
-    </a>
-    <a href="https://www.credly.com/badges/18ee08a5-758c-4cc5-8960-45ad1a3486db/public_url" target="_blank">
-      <img src="images/saa.webp" style="height: 90px;" alt="AWS Certified Solutions Architect Associate"/>
-    </a>
-    <a href="https://www.credly.com/badges/1ea46f2b-87f2-48fd-986f-4f27cb94b921/public_url" target="_blank">
-      <img src="images/aiprac.webp" style="height: 90px;" alt="AWS Certified AI Practitioner"/>
-    </a>
-    <a href="https://www.credly.com/badges/f7ed4608-eeeb-4a9d-835c-ed25089db801/public_url" target="_blank">
-      <img src="images/aiprac-early-adopter.webp" style="height: 90px;" alt="AWS AI Practitioner Early Adopter"/>
-    </a>
-    <a href="https://www.credly.com/badges/e7181a34-70c1-4d52-937b-a4c34285247b/public_url" target="_blank">
-      <img src="images/cloudprac.webp" style="height: 90px;" alt="AWS Certified Cloud Practitioner"/>
-    </a>
-    <a href="https://learn.microsoft.com/en-us/users/JCDiamante-2285/credentials/8FBB49C024743B6?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
-      <img src="images/ms_developer_associate.webp" style="height: 90px;" alt="Microsoft Certified: Developer Associate"/>
-    </a>
-    <a href="https://www.credly.com/badges/c7fde662-c2fe-49f2-8eb0-032cab0297bc/public_url" target="_blank">
-      <img src="images/foundations.webp" style="height: 90px;" alt="GitHub Foundations Certification"/>
-    </a>
-    <a href="https://www.credly.com/badges/94e7bd4d-4522-42af-82fe-76065b7e6090/public_url" target="_blank">
-      <img src="images/open_science.webp" style="height: 90px;" alt="NASA TOPS Open Science"/>
-    </a>
-  </p>
-</div> -->
-
-<!-- <hr> -->
-
-<!-- <div align="center"> -->
-<!-- <h3>📊 GitHub Stats 📊</h3> -->
-
-<!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" /> -->
-<!-- <img width="480" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&theme=gotham&hide_border=false" /> -->
-<!-- <img width="500" height="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" /> -->
-
-<!-- <div style="display: flex; flex-direction: row; gap: 5px; padding: 20px; justify-content: center; align-items: center">
-  <div style="display: flex; flex-direction: column; gap: 10px; flex: 1;">
-    <div style="padding: 1px; height: 190px; display: flex; justify-content: flex-end; align-items: center">
-      <img width="450" height="240" src="https://github-readme-stats.vercel.app/api?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
-    </div>
-    <div style="padding: 1px; height: 190px; display: flex; justify-content: flex-end; align-items: center">
-      <img width="480" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphim&theme=gotham&hide_border=false" />
-    </div>
-  </div>
-  
-  <div style="padding: 1px; border: 2px solid flex: 1; height: 395px; justify-content:center; align-items: center">
-    <img width="500" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphim&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
-  </div>
-</div> -->
-<!-- </div> -->
-
+### 🛠️ Build
+Backend & platform engineering at scale — Java/Spring Boot, Python/FastAPI, Kafka, Redis, Docker, Kubernetes, CI/CD. Systems that don't fall over.
 
 </td>
-<td>
+<td width="33%" valign="top">
+
+### 🔬 Research
+Computer vision & ML — **IEEE + ACM published**. YOLOv12 wildfire detection at **93.1% mAP@50**, real-time on the edge.
+
+</td>
+<td width="33%" valign="top">
+
+### 📚 Teach
+Ex-university instructor, open-source contributor, and mentor. I break AI/ML down into plain English and share what I learn.
+
+</td>
+</tr>
+</table>
+
+## 📊 A few numbers
+
+- 🏦 Backend for **94M+ users** in FinTech at GCash
+- 🔥 **93.1% mAP@50** wildfire detection (YOLOv12, 33ms inference) — with ASU & Cintana Alliance
+- 📄 **2 peer-reviewed papers** (IEEE I2CACIS, ACM CIIS) → [ORCID](https://orcid.org/0009-0002-6594-956X)
+- ☁️ **5× AWS** certified + Azure Developer Associate
+- 🤖 Ranked **#1 of 429 developers** in AI-assisted dev adoption at GCash
+- 🏆 NASA Space Apps global nominee · multiple hackathon wins · Magna Cum Laude
+
+## 🧰 Tech I reach for
+
+[![My Skills](https://skillicons.dev/icons?i=py,typescript,java,spring,react,nextjs,fastapi,kubernetes,docker,aws,azure,gcp,postgres,mongodb,kafka,redis,git,bash,tensorflow,pytorch&perline=10)](https://skillicons.dev)
+
+## 🚀 Featured work
+
+**Open source & public**
+
+- **[bettergovph/bettergov](https://github.com/bettergovph/bettergov)** — Contributor to the Philippines' civic-tech platform (486★). Fixed map rendering, search pagination, and multilingual responsive nav. `React · TypeScript · Meilisearch · Cloudflare`
+- **[ScholarSprint](https://github.com/Zeraphim/ScholarSprint)** — Interactive research workflow: ingest arXiv papers, retrieve, and generate structured LLM summaries. `Python · Streamlit · Pydantic-AI`
+- **[streamlit-dashboard-template](https://github.com/Zeraphim/streamlit-dashboard-template)** — Teaching template I built for my Intro to Data Science students. `Python · Streamlit`
+- **[Streamlit Iris Classification Dashboard](https://github.com/Zeraphim/Streamlit-Iris-Classification-Dashboard)** — End-to-end EDA → preprocessing → supervised ML teaching demo. `Python`
+
+**Selected private / company work** *(code not public — happy to talk through it)*
+
+- **GPlayground** — AI-powered onboarding platform (Vertex AI, MongoDB); **1st runner-up, GCash PSD Hackathon 2025**, funded into an MVP. `React · TypeScript · Vertex AI`
+- **Wan Shi Tong** — Agentic workflow that catches cross-project breaking changes in merge requests before they merge. *GitLab AI Hackathon 2026.* `Python · FastAPI · Multi-agent`
+- **GCash platform engineering** — 30+ microservices on Kubernetes, Backstage developer-portal plugins, GitOps pipelines — 90%+ test coverage, zero deploy reverts.
+
+## 🔬 Research & publications
+
+I work on applied computer vision and ML. Full list on my **[ORCID profile](https://orcid.org/0009-0002-6594-956X)**.
+
+- *Classification of Philippine Soybean Variety Using Image Processing and Machine Learning* — **IEEE I2CACIS 2024**
+- *Detection of Water Hyacinth on the Pasig River via YOLOv7* — **ACM CIIS 2023**
+
+## ✍️ I also write & share
+
+<p>
+  <a href="https://dev.to/zeraphim"><img src="https://img.shields.io/badge/dev.to-Articles-0D9488?style=flat-square&logo=dev.to&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCG1exqSNKgEniM-3XSLcS2w"><img src="https://img.shields.io/badge/YouTube-Talks-0F766E?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://kaggle.com/zeraphim"><img src="https://img.shields.io/badge/Kaggle-Notebooks-134E4A?style=flat-square&logo=kaggle&logoColor=white"/></a>
+</p>
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zeraphim&show_icons=true&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=475569&bg_color=ffffff" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeraphim&layout=compact&hide_border=true&title_color=0D9488&text_color=475569&bg_color=ffffff" alt="top langs"/>
+</p>
+
+---
+
+<p align="center">
+  <i>◆ Passion &amp; Excellence — build things that work, research things that matter, teach so others can do both.</i><br/>
+  📫 <a href="mailto:jdmntec@gmail.com">jdmntec@gmail.com</a> · 🌐 <a href="https://jcdiamante.com">jcdiamante.com</a>
+</p>
