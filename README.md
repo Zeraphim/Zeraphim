@@ -71,11 +71,11 @@ Ex-university instructor, open-source contributor, and mentor. I break AI/ML dow
 - **[streamlit-dashboard-template](https://github.com/Zeraphim/streamlit-dashboard-template)** — Teaching template I built for my Intro to Data Science students. `Python · Streamlit`
 - **[Streamlit Iris Classification Dashboard](https://github.com/Zeraphim/Streamlit-Iris-Classification-Dashboard)** — End-to-end EDA → preprocessing → supervised ML teaching demo. `Python`
 
-**Selected private / company work** *(code not public — happy to talk through it)*
+<!-- **Selected private / company work** *(code not public — happy to talk through it)*
 
 - **GPlayground** — AI-powered onboarding platform (Vertex AI, MongoDB); **1st runner-up, GCash PSD Hackathon 2025**, funded into an MVP. `React · TypeScript · Vertex AI`
 - **Wan Shi Tong** — Agentic workflow that catches cross-project breaking changes in merge requests before they merge. *GitLab AI Hackathon 2026.* `Python · FastAPI · Multi-agent`
-- **GCash platform engineering** — 30+ microservices on Kubernetes, Backstage developer-portal plugins, GitOps pipelines — 90%+ test coverage, zero deploy reverts.
+- **GCash platform engineering** — 30+ microservices on Kubernetes, Backstage developer-portal plugins, GitOps pipelines — 90%+ test coverage, zero deploy reverts. -->
 
 ## 🔬 Research & publications
 
