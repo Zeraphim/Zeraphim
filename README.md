@@ -67,8 +67,8 @@ Ex-university instructor, open-source contributor, and mentor. I break AI/ML dow
 **Open source & public**
 
 - **[bettergovph/bettergov](https://github.com/bettergovph/bettergov)** — Contributor to the Philippines' civic-tech platform (486★). Fixed map rendering, search pagination, and multilingual responsive nav. `React · TypeScript · Meilisearch · Cloudflare`
+- **[Data Engineering Open Track](https://github.com/dataengineeringpilipinas/dep-data-engineering-open-track)** — Contributor to Data Engineering Pilipinas' open-source learning track as part of its leadership team. `Data Engineering · Open Source · Community`
 - **[ScholarSprint](https://github.com/Zeraphim/ScholarSprint)** — Interactive research workflow: ingest arXiv papers, retrieve, and generate structured LLM summaries. `Python · Streamlit · Pydantic-AI`
-- **[streamlit-dashboard-template](https://github.com/Zeraphim/streamlit-dashboard-template)** — Teaching template I built for my Intro to Data Science students. `Python · Streamlit`
 - **[Streamlit Iris Classification Dashboard](https://github.com/Zeraphim/Streamlit-Iris-Classification-Dashboard)** — End-to-end EDA → preprocessing → supervised ML teaching demo. `Python`
 
 <!-- **Selected private / company work** *(code not public — happy to talk through it)*
