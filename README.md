@@ -1,5 +1,5 @@
 <a href="https://jcdiamante.com">
-  <img src="./images/banner-v3.webp" alt="JC Diamante — Build. Research. Teach." width="100%" />
+  <img src="./images/banner/v4/banner-dark-short.webp" alt="JC Diamante — Build. Research. Teach." width="100%" />
 </a>
 
 <h1 align="center">Hi, I'm JC 👋🏼 &nbsp;<span>◆</span></h1>
