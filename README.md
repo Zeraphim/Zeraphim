@@ -49,41 +49,6 @@ Ex-university instructor, open-source contributor, and mentor. I break AI/ML dow
 </tr>
 </table>
 
-## 📊 A few numbers
-
-- 🏦 Backend for **94M+ users** in FinTech at GCash
-- 🔥 **93.1% mAP@50** wildfire detection (YOLOv12, 33ms inference) — with ASU & Cintana Alliance
-- 📄 **2 peer-reviewed papers** (IEEE I2CACIS, ACM CIIS) → [ORCID](https://orcid.org/0009-0002-6594-956X)
-- ☁️ **5× AWS** certified + Azure Developer Associate
-- 🤖 Ranked **#1 of 429 developers** in AI-assisted dev adoption at GCash
-- 🏆 NASA Space Apps global nominee · multiple hackathon wins · Magna Cum Laude
-
-## 🧰 Tech I reach for
-
-[![My Skills](https://skillicons.dev/icons?i=py,typescript,java,spring,react,nextjs,fastapi,kubernetes,docker,aws,azure,gcp,postgres,mongodb,kafka,redis,git,bash,tensorflow,pytorch&perline=10)](https://skillicons.dev)
-
-## 🚀 Featured work
-
-**Open source & public**
-
-- **[bettergovph/bettergov](https://github.com/bettergovph/bettergov)** — Contributor to the Philippines' civic-tech platform (486★). Fixed map rendering, search pagination, and multilingual responsive nav. `React · TypeScript · Meilisearch · Cloudflare`
-- **[Data Engineering Open Track](https://github.com/dataengineeringpilipinas/dep-data-engineering-open-track)** — Contributor to Data Engineering Pilipinas' open-source learning track as part of its leadership team. `Data Engineering · Open Source · Community`
-- **[ScholarSprint](https://github.com/Zeraphim/ScholarSprint)** — Interactive research workflow: ingest arXiv papers, retrieve, and generate structured LLM summaries. `Python · Streamlit · Pydantic-AI`
-- **[Streamlit Iris Classification Dashboard](https://github.com/Zeraphim/Streamlit-Iris-Classification-Dashboard)** — End-to-end EDA → preprocessing → supervised ML teaching demo. `Python`
-
-<!-- **Selected private / company work** *(code not public — happy to talk through it)*
-
-- **GPlayground** — AI-powered onboarding platform (Vertex AI, MongoDB); **1st runner-up, GCash PSD Hackathon 2025**, funded into an MVP. `React · TypeScript · Vertex AI`
-- **Wan Shi Tong** — Agentic workflow that catches cross-project breaking changes in merge requests before they merge. *GitLab AI Hackathon 2026.* `Python · FastAPI · Multi-agent`
-- **GCash platform engineering** — 30+ microservices on Kubernetes, Backstage developer-portal plugins, GitOps pipelines — 90%+ test coverage, zero deploy reverts. -->
-
-## 🔬 Research & publications
-
-I work on applied computer vision and ML. Full list on my **[ORCID profile](https://orcid.org/0009-0002-6594-956X)**.
-
-- *Classification of Philippine Soybean Variety Using Image Processing and Machine Learning* — **IEEE I2CACIS 2024**
-- *Detection of Water Hyacinth on the Pasig River via YOLOv7* — **ACM CIIS 2023**
-
 ## ✍️ I also write & share
 
 <p>
@@ -97,6 +62,39 @@ I work on applied computer vision and ML. Full list on my **[ORCID profile](http
 - **[Can't Use Cloud AI on Patient Data? — ICU Mortality Predictor with Local LLMs](https://www.jcdiamante.com/blog/cant-use-cloud-ai-patient-data-local-llms-icu-mortality)** — Running Gemma 4 & Qwen3 Coder on-device with MIMIC-III clinical data for my UT Austin AI in Healthcare course. `Local AI · Healthcare AI · Machine Learning`
 - **[Running Local LLMs With LM Studio](https://www.jcdiamante.com/blog/running-local-llms-lm-studio-small-models)** — Testing small models for real tasks (Filipino privacy-law assistant) and learning what local AI can actually deliver today. `Local AI · Machine Learning`
 - **[I Bought a Raspberry Pi Because AWS Humbled Me](https://www.jcdiamante.com/blog/i-bought-a-raspberry-pi)** — After one too many idle EC2 bills, I bought a Pi and let it do the quiet work on my desk. `Cloud & Infra · Hardware`
+
+## 🚀 Open source projects I'm contributing to
+
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — Contributing terminal customization and safeguards that prevent unresolved task failures from becoming reusable agent skills. `Python · TypeScript · React · Agentic AI`
+- **[Zed](https://github.com/zed-industries/zed)** — Contributing horizontal scrolling for wide Markdown tables to the high-performance code editor. `Rust · Markdown · UI`
+- **[bettergovph/bettergov](https://github.com/bettergovph/bettergov)** — Contributor to the Philippines' civic-tech platform (486★). Fixed map rendering, search pagination, and multilingual responsive nav. `React · TypeScript · Meilisearch · Cloudflare`
+- **[Data Engineering Open Track](https://github.com/dataengineeringpilipinas/dep-data-engineering-open-track)** — Contributor to Data Engineering Pilipinas' open-source learning track as part of its leadership team. `Data Engineering · Open Source · Community`
+
+## 🔬 Research & publications
+
+I work on applied computer vision and ML. Full list on my **[ORCID profile](https://orcid.org/0009-0002-6594-956X)**.
+
+- *Classification of Philippine Soybean Variety Using Image Processing and Machine Learning* — **IEEE I2CACIS 2024**
+- *Detection of Water Hyacinth on the Pasig River via YOLOv7* — **ACM CIIS 2023**
+
+## 📊 A few numbers
+
+- 🏦 Backend for **94M+ users** in FinTech at GCash
+- 🔥 **93.1% mAP@50** wildfire detection (YOLOv12, 33ms inference) — with ASU & Cintana Alliance
+- 📄 **2 peer-reviewed papers** (IEEE I2CACIS, ACM CIIS) → [ORCID](https://orcid.org/0009-0002-6594-956X)
+- ☁️ **5× AWS** certified + Azure Developer Associate
+- 🤖 Ranked **#1 of 429 developers** in AI-assisted dev adoption at GCash
+- 🏆 NASA Space Apps global nominee · multiple hackathon wins · Magna Cum Laude
+
+<!-- **Selected private / company work** *(code not public — happy to talk through it)*
+
+- **GPlayground** — AI-powered onboarding platform (Vertex AI, MongoDB); **1st runner-up, GCash PSD Hackathon 2025**, funded into an MVP. `React · TypeScript · Vertex AI`
+- **Wan Shi Tong** — Agentic workflow that catches cross-project breaking changes in merge requests before they merge. *GitLab AI Hackathon 2026.* `Python · FastAPI · Multi-agent`
+- **GCash platform engineering** — 30+ microservices on Kubernetes, Backstage developer-portal plugins, GitOps pipelines — 90%+ test coverage, zero deploy reverts. -->
+
+## 🧰 Tech I reach for
+
+[![My Skills](https://skillicons.dev/icons?i=py,typescript,java,spring,react,nextjs,fastapi,kubernetes,docker,aws,azure,gcp,postgres,mongodb,kafka,redis,git,bash,tensorflow,pytorch&perline=10)](https://skillicons.dev)
 
 <!--## 📈 GitHub stats
 
