@@ -22,8 +22,6 @@
 
 I'm a builder who never really picked one lane — and stopped apologizing for it. Days I'm shipping backend microservices that keep money moving for **94M+ users** at GCash. Other days I'm training vision models to spot wildfires from the air, or in class for my **Master's in AI at UT Austin**. And I genuinely love teaching the stuff once it clicks. Big fan of hackathons, automating anything I'm too lazy to do twice, and the occasional kalimba break. 🎶
 
-My whole thing is **passion & excellence** — whether it's a production system or a research paper, I want it to actually *work*.
-
 ## 🧭 What I do
 
 <table>
