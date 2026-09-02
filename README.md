@@ -57,9 +57,9 @@ Ex-university instructor, open-source contributor, and mentor. I break AI/ML dow
 
 **Featured writings**
 
+- **[Can't Afford an AI Subscription? Here's the $0 Stack, and Why I Contribute to Hermes Agent](https://www.jcdiamante.com/blog/ai-should-not-be-pay-to-win-hermes-agent)** — The free AI stack I'd start with as a student, the $10 one I actually pay for, and why I contribute to the open-source Hermes Agent harness. `AI Industry · Open Source · Local AI`
 - **[Can't Use Cloud AI on Patient Data? — ICU Mortality Predictor with Local LLMs](https://www.jcdiamante.com/blog/cant-use-cloud-ai-patient-data-local-llms-icu-mortality)** — Running Gemma 4 & Qwen3 Coder on-device with MIMIC-III clinical data for my UT Austin AI in Healthcare course. `Local AI · Healthcare AI · Machine Learning`
 - **[Running Local LLMs With LM Studio](https://www.jcdiamante.com/blog/running-local-llms-lm-studio-small-models)** — Testing small models for real tasks (Filipino privacy-law assistant) and learning what local AI can actually deliver today. `Local AI · Machine Learning`
-- **[I Bought a Raspberry Pi Because AWS Humbled Me](https://www.jcdiamante.com/blog/i-bought-a-raspberry-pi)** — After one too many idle EC2 bills, I bought a Pi and let it do the quiet work on my desk. `Cloud & Infra · Hardware`
 
 ## 🚀 Open source projects I'm contributing to
 
