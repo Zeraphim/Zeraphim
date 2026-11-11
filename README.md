@@ -28,4 +28,4 @@ A few things I believe:
 - [AI should widen the door into this industry](https://www.jcdiamante.com/blog/ai-should-not-be-pay-to-win-hermes-agent), not become another paywall.
 - If I figured something out the hard way, I write it down for the next person, like [your first open-source pull request](https://www.jcdiamante.com/blog/your-first-open-source-pull-request).
 
-I write at [jcdiamante.com](https://jcdiamante.com) and go [hiking](https://www.jcdiamante.com/#hiking). I also play the kalimba. It is the one thing I have not tried to optimize.
+I write at [jcdiamante.com](https://www.jcdiamante.com/blog) and go [hiking](https://www.jcdiamante.com/#hiking). I also play the kalimba. It is the one thing I have not tried to optimize.
