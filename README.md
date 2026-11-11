@@ -15,7 +15,7 @@
 
 Hi, I'm JC, from the Philippines.
 
-I've always liked optimizing things. It started with shaving time and space off algorithms. These days I run five AI agents in terminal tabs, and most of my optimizing goes into knowing which one is waiting on me.
+I've always liked optimizing things. It started in high school, when I coded the color sensor for our team's robot at a [robotics competition](https://www.jcdiamante.com/#hackathons). These days I run five AI agents in terminal tabs, and most of my optimizing goes into knowing which one is waiting on me.
 
 By day I write backend code at [GCash](https://www.gcash.com). The rest of my time goes to AI that has to run somewhere specific: on a phone, on a laptop, or in healthcare software that can't send patient data to a model. I'm also working through a [master's in AI at UT Austin](https://cdso.utexas.edu/msai).
 
