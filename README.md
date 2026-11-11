@@ -15,7 +15,7 @@
 
 Hi, I'm JC, from the Philippines.
 
-I've always liked optimizing things. It started in high school, when I coded the color sensor for our team's robot at a [robotics competition](https://www.jcdiamante.com/#hackathons). These days I run five AI agents in terminal tabs, and most of my optimizing goes into knowing which one is waiting on me.
+I've always liked optimizing things. It started in high school, when I coded the color sensor for our team's robot at a [robotics competition](https://www.jcdiamante.com/#hackathons/itcup-robotics). These days I run five AI agents in terminal tabs, and most of my optimizing goes into knowing which one is waiting on me.
 
 By day I write backend code at [GCash](https://www.gcash.com). The rest of my time goes to AI that has to run somewhere specific: on a phone, on a laptop, or in healthcare software that can't send patient data to a model. I'm also working through a [master's in AI at UT Austin](https://cdso.utexas.edu/msai).
 
@@ -28,4 +28,4 @@ A few things I believe:
 - [AI should widen the door into this industry](https://www.jcdiamante.com/blog/ai-should-not-be-pay-to-win-hermes-agent), not become another paywall.
 - If I figured something out the hard way, I write it down for the next person, like [your first open-source pull request](https://www.jcdiamante.com/blog/your-first-open-source-pull-request).
 
-I write at [jcdiamante.com](https://jcdiamante.com). I also play the kalimba. It is the one thing I have not tried to optimize.
+I write at [jcdiamante.com](https://jcdiamante.com) and go [hiking](https://www.jcdiamante.com/#hiking). I also play the kalimba. It is the one thing I have not tried to optimize.
