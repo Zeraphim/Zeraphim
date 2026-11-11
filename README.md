@@ -13,7 +13,7 @@
   <a href="https://x.com/ThatZeraphim"><img src="https://img.shields.io/badge/X-@ThatZeraphim-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
-Hi, I'm JC, from the Philippines.
+Hi, I'm JC, from the Philippines 🇵🇭.
 
 I've always liked optimizing things. It started in high school, when I coded the color sensor for our team's robot at a [robotics competition](https://www.jcdiamante.com/#hackathons/itcup-robotics). These days I run five AI agents in terminal tabs, and most of my optimizing goes into knowing which one is waiting on me.
 
