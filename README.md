@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/banner/v6/banner-dark.webp" />
     <source media="(prefers-color-scheme: light)" srcset="./images/banner/v6/banner-light.webp" />
-    <img src="./images/banner/v6/banner-light.webp" alt="JC Diamante — Build. Research. Teach." width="100%" />
+    <img src="./images/banner/v6/banner-light.webp" alt="JC Diamante — Systems. Agents. Research." width="100%" />
   </picture>
 </a>
 
